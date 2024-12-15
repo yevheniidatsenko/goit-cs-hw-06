@@ -1,8 +1,8 @@
-# Final Assignment |
+# Final Assignment
 
 Welcome to the final stage of your exciting journey through the Computer Systems course 😉. Look at how much you’ve already achieved! Now, you need to complete a homework assignment, which serves as the course's final task.
 
-This last project is not just an assignment; it’s your triumph. **Are you ready to showcase your understanding and skills?** You’ve done this before, and you can do it again 💪🏼.
+This last project is not just an assignment; it’s your triumph. **Are you ready to showcase your understanding and skills?** You’ve done this before, and you can do it again.
 
 This assignment is **comprehensive** and covers knowledge from various course modules.
 
